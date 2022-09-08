@@ -17,6 +17,11 @@
 <a href="https://www.instagram.com/kar_thik_vel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53464755/189201321-3a7e81ac-89ec-47c4-8bf7-a6c6d6055059.png"height="30" width="40" /></a>
 <a href="https://www.facebook.com/kar.vthik/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53464755/189201995-5f2b93c1-c787-4146-addf-1b3b51f11aec.png"height="30" width="40" /></a>
   
+ #About
+  
+  
+  I'm a final year student at Bannari Amman Institute of Technology. I am passionate about implementing and launching new projects. I have the ability to translate business requirements into technical solutions. I am seeking opportunities to develop my research skills in a professional context and I can make use of my interpersonal skills to achieve the goals of the company.
+  
   
 ### Languages
 
@@ -25,13 +30,19 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML](https://img.shields.io/twitter/url?label=HTML&logo=HTML5&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3DHTML%26logo%3DHTML5%26style%3Dsocial)
 
  
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![XAMPP](https://img.shields.io/twitter/url?label=XAMPP&logo=XAMPP&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3DHTML%26logo%3DHTML5%26style%3Dsocial)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+  
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ai.bitsathy.ac.in/)
+
+  
+ 
+ 
