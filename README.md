@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋, I'm Karthik Velusamy
 ![Simple Work LinkedIn Banner (2)](https://user-images.githubusercontent.com/53464755/189125785-91814cfa-0f6f-40a3-9eaf-fc96d5b3638c.gif)
 
 <!--
