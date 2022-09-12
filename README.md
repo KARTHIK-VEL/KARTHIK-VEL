@@ -48,7 +48,6 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
   
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://ai.bitsathy.ac.in/)
 
   
  
