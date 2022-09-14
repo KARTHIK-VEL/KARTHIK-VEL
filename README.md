@@ -25,7 +25,7 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
 <a href="https://www.facebook.com/kar.vthik/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53464755/189201995-5f2b93c1-c787-4146-addf-1b3b51f11aec.png"height="30" width="40" /></a>
   
  #About
-  
+ 
   
   I'm a final year student at Bannari Amman Institute of Technology. I am passionate about implementing and launching new projects. I have the ability to translate business requirements into technical solutions. I am seeking opportunities to develop my research skills in a professional context and I can make use of my interpersonal skills to achieve the goals of the company.
   
@@ -47,6 +47,8 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
   
 ### Full Stack Projects
+
+IDENTIFYING WOMEN HARASSMENTS IN PUBLIC CCTV CAMERAS USING ARTIFICIAL INTELLIGENCE TECHNIQUES
 
 
   
