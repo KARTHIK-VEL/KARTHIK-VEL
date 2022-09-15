@@ -46,9 +46,7 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
   
-### Full Stack Projects
 
-IDENTIFYING WOMEN HARASSMENTS IN PUBLIC CCTV CAMERAS USING ARTIFICIAL INTELLIGENCE TECHNIQUES
 
 
   
