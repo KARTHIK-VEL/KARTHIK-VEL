@@ -53,7 +53,7 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
   
   
   
-  ![avaScript](https://img.shields.io/badge/-avaScript-000?&logo=JavaScript)
+  ![avaScript](https://img.shields.io/badge/--000?&logo=avaScript)
   
 
 
