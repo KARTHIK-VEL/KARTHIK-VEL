@@ -1,5 +1,6 @@
 # Hi 👋, I'm Karthik Velusamy
 
+![1623126098066](https://github.com/KARTHIK-VEL/KARTHIK-VEL/assets/53464755/31587d4d-580f-4fac-9e1c-97c560047994)
 
 
 Portfolio : https://v--karthikvelusamy.repl.co/
