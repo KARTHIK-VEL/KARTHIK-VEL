@@ -13,9 +13,8 @@ Resume : [V KARTHIK.pdf]()
 </br>
 
 
-- 🔭 I’m currently pursuing B.Tech Information Technology @ Bannari Amman Institute of Technology.
-- 🌱 I’m currently working at Artificial Intelligence based projects.
-- 🤔 I’m looking for a job opportunities.
+- 🔭 B.Tech Information Technology @ Bannari Amman Institute of Technology.
+- 🌱 I’m currently working at Edsols
 - ⚡ Fun fact: Follow what your heart says.
 - 📫 How to reach me: karthik.it19@bitsathy.ac.in
 
