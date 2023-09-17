@@ -1,10 +1,10 @@
 # Hi 👋, I'm Karthik Velusamy
-![Simple Work LinkedIn Banner (2)](https://user-images.githubusercontent.com/53464755/189125785-91814cfa-0f6f-40a3-9eaf-fc96d5b3638c.gif)
+
 
 
 Portfolio : https://v--karthikvelusamy.repl.co/
 
-Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/9530376/V.KARTHIK.pdf)
+Resume : [V KARTHIK.pdf]()
 
 
 
@@ -27,14 +27,13 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
  #About
  
   
-  I'm a final year student at Bannari Amman Institute of Technology. I am passionate about implementing and launching new projects. I have the ability to translate business requirements into technical solutions. I am seeking opportunities to develop my research skills in a professional context and I can make use of my interpersonal skills to achieve the goals of the company.
+I am passionate about implementing and launching new projects. I have the ability to translate business requirements into technical solutions. I am seeking opportunities to develop my research skills in a professional context and I can make use of my interpersonal skills to achieve the goals of the company.
   
   
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
  
@@ -53,7 +52,6 @@ Resume : [V KARTHIK.pdf](https://github.com/KARTHIK-VEL/KARTHIK-VEL/files/953037
   
   
   
-  ![avaScript](https://img.shields.io/badge/--000?&logo=avaScript)
   
 
 
